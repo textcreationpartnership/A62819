@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Lords Commissioners appointed for the Treaty of Commerce with France, the humble desire of the English merchants trading to France, on behalf of themselves and the English trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62819</idno>
+            <idno type="STC">Wing T1703</idno>
+            <idno type="STC">ESTC R10500</idno>
+            <idno type="EEBO-CITATION">12590721</idno>
+            <idno type="OCLC">ocm 12590721</idno>
+            <idno type="VID">63907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 676:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Lords Commissioners appointed for the Treaty of Commerce with France, the humble desire of the English merchants trading to France, on behalf of themselves and the English trade</title>
+                  <author>England and Wales. Lords Commissioners for the Treaty of Commerce with France.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head: November 29, 1674.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:63907:1" rendition="simple:additions"/>
+            <head>NOVEMBER 29, 1674. To the Right Honourable the Lords Commiſſioners appointed for the Treaty of Commerce with <hi>France, The Humble Deſire of the</hi> Engliſh <hi>Mer<g ref="char:EOLhyphen"/>chants trading to</hi> France, <hi>on be<g ref="char:EOLhyphen"/>half of themſelves and the</hi> Engliſh Trade.</head>
+            <opener>
+               <salute>May it pleaſe your Lordſhips;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>ITH humble Thankfulneſs acknowledging your Lord<g ref="char:EOLhyphen"/>ſhips great Care of the Intereſt of Trade, and of the <hi>Engliſh</hi> Merchants Concerns, in your Lordſhips requi<g ref="char:EOLhyphen"/>ring us to preſent our Deſires in reference to the ſet<g ref="char:EOLhyphen"/>tling of a Treaty of Commerce with <hi>France:</hi> We do in all Humility humbly propoſe to your Lordſhips,</p>
+            <p n="1">I. That all former Treaties may be confirmed in whatſoever is not contravening to the preſent Treaty.</p>
+            <p n="2">II. That it may be provided, That in all the Countries, Cities, Vil<g ref="char:EOLhyphen"/>lages and Places in <hi>Europe,</hi> belonging to the King of <hi>France,</hi> the <hi>Engliſh</hi> may have free Liberty, without any Safe-conduct or Licenſe, general or ſpecial, to enter and come, and there to ſtay, abide and inhabit, as Houſeholders and Warehouſe-keepers, ſo long as they pleaſe, with the ſame Liberty, Freedom and Privilege, as the Subjects of <hi>France</hi> do in <hi>England;</hi> and to Import and Export any Merchandize as fully and free<g ref="char:EOLhyphen"/>ly as the Subjects of <hi>France</hi> may: And alſo may as freely buy and ſell, either for their own Accounts, or by Commiſſion as Factors for others, any Merchandizes; and particularly, That the <hi>Engliſh</hi> may freely Im<g ref="char:EOLhyphen"/>port and Vend in any the Dominions of <hi>France,</hi> both as Factors or Principal, all Native Commodities of the Product of the Kingdom of <hi>England,</hi> and the Dominions thereof, and all Manufactures of Wool or Silk, or mixt with Wool or Silk, of what Nature, Kind or Condition ſoever they be, as to the Make, Size, Length, Breadth, and other Cir<g ref="char:EOLhyphen"/>cumſtances whatſoever, without any Hinderance, Obſtruction, or Mo<g ref="char:EOLhyphen"/>leſtation,
+<pb n="2" facs="tcp:63907:2"/>on pretence of any Viſitation or Examination touching the ſame, under pretence of being vicious, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">III. That the Cuſtoms and Impoſitions in <hi>France,</hi> on the Importa<g ref="char:EOLhyphen"/>tion of the <hi>Engliſh</hi> Manufactures of Wool or Silk, or mixt with Wool or Silk, be reduced to what they were in the time of the Treaty in <hi>Anno</hi> 1606. or at leaſt to an Equality; and that no greater or higher Impoſi<g ref="char:EOLhyphen"/>tion ſhall be put on the ſame, either on Importation, Conſumption, or Exportation of any Commodities, be required by the King of <hi>France</hi> or his Miniſters, of the <hi>Engliſh,</hi> than of his own Subjects of ſuch Places, Cities or Ports.</p>
+            <figure/>
+            <p n="5">V. That all <hi>Engliſh</hi> Shipping may be ſuffered freely to go up the Ri<g ref="char:EOLhyphen"/>ver of <hi>Bourdeaux</hi> to the City, without being compelled to take out their Ordnance at the Caſtle of <hi>Bloys,</hi> as was granted in the 11th Article of the Treaty of 1655.</p>
+            <p n="6">VI. That all Letters of Mart be recalled, and none to be given but after Denial of Juſtice, as in the 22d Article of the Treaty of 1606.</p>
+            <p n="7">VII. That no Letters of Reprizal, Arreſts or Executions, be granted on the Ships, Veſſels, Goods or Merchandizes of the <hi>Engliſh,</hi> in any Haven, Harbour or Port, or on Shoar, for or under any Pretence of any Wrong, Injury, Debt or Debts whatſoever, but only on the ſole and proper Goods of ſuch Perſon or Perſons that did the Wrong or In<g ref="char:EOLhyphen"/>jury, or is the real Debtor; and in ſuch caſe, ſufficient Security to be given to anſwer all Damages, if on trial, the Party claiming ſhall not make good his Wrong, Damage or Debt, and that the Effects ſo ar<g ref="char:EOLhyphen"/>reſted do properly belong to the Perſon that did the Injury, or owed the Money.</p>
+            <p>And further, that all Letters of Reprizal, Executions or other Sen<g ref="char:EOLhyphen"/>tences whatſoever, heretofore given in favour of <hi>Martin Delaunay, Ca<g ref="char:EOLhyphen"/>deau, Marſeau,</hi> and <hi>Lacon,</hi> their Widows, Heirs or Aſſigns, or any o<g ref="char:EOLhyphen"/>ther Perſons, may be declared null and void, and not put in execution, on any of the Bodies, Ships, or Goods, or Effects of any of his Maje<g ref="char:EOLhyphen"/>ſty's Subjects.</p>
+            <p n="8">VIII. That all <hi>Engliſh</hi> Ships coming into any Haven or Port of <hi>France,</hi> or the Dominions thereof, by reaſon of any Tempeſt, Purſuit of Enemy, or otherwiſe, for Conveniency of their Trade, or Refreſhment; ſhall not be obliged to pay any Cuſtoms or Duties, but only to give notice ſo ſoon as they can ſend with Conveniency on ſhore, of the Reaſon of his coming thither: And that if ſuch Maſter do not ſend on ſhore ſuch timely No<g ref="char:EOLhyphen"/>tice, yet the Want or Neglect thereof ſhall not be underſtood to confiſ<g ref="char:EOLhyphen"/>cate the Ship, or render the Goods, or any part of them, liable to Cu<g ref="char:EOLhyphen"/>ſtom, if ſuch Maſter do not of his own accord deſire to land them; and that all the Penalty that ſhall be required of ſuch Maſter, ſhall only be double the Hire of ſuch Boat as ſhall be by the Governour of the Place ſent on board him.</p>
+            <p n="9">IX. That any <hi>Engliſh</hi> Merchant that ſhall freight Ships to go to any
+<pb n="3" facs="tcp:63907:2"/>Port of <hi>France,</hi> to load Goods, may have the Freedom of their own Ships, and not be forced to take in the Goods of any others, without their free Conſent; and that no <hi>Engliſh</hi> Ship be at any time hinder'd to lade ſuch Goods as any Merchant ſhall deſire to load in him, by reaſon of any <hi>French</hi> Veſſel loading for the ſame Port.</p>
+            <p n="10">X. That the <hi>Engliſh</hi> may freely trade to all Ports and Places, tho' in Enmity with the <hi>French,</hi> and carry any Corn, Fiſh, or other Proviſions, as alſo Lead in Pigs and Bars, Tobacco, Sugar, and all other Commo<g ref="char:EOLhyphen"/>dities, thoſe only excepted which ſhall be particularly enumerated in this Treaty, and declared <hi>Contrabanda.</hi>
+            </p>
+            <p n="11">XI. That free Ships may make free Goods, and that no <hi>Engliſh</hi> Ship may be further queſtioned by any Man of War, or any Ship of <hi>France,</hi> that to evidence the Ship is an <hi>Engliſh</hi> Ship, and ſailed by the major part of <hi>Engliſh</hi> Men, and that the Cocquets and Diſpatches of the Cu<g ref="char:EOLhyphen"/>ſtom-houſes of the reſpective Ports, ſhall be allowed as ſufficient Teſti<g ref="char:EOLhyphen"/>mony of her being an <hi>Engliſh</hi> Ship; any Law or Uſage to the contrary notwithſtanding.</p>
+            <p n="12">XII. That no Perſonal Taxes be impoſed on any <hi>Engliſh</hi> Merchants reſiding in <hi>France,</hi> other than are generally required of, and paid by the Natives and Free Burghers of the ſame Quality and Condition, and that one Perſon ſhall not be chargeable with the Tax of any other.</p>
+            <p n="13">XIII. That the Teſtimony of one <hi>Engliſh</hi>-man, in all Caſes, Civil or Criminal, may be taken as good Evidence, where the Witneſs is not concerned, it being ſo conſtantly practiſed in <hi>England</hi> towards the <hi>French.</hi>
+            </p>
+            <p n="14">XIV. That all Merchants and Maſters of Ships ſhall be left at liber<g ref="char:EOLhyphen"/>ty in all Parts and Places of <hi>France,</hi> to do their own Buſineſs, and to imploy ſuch Perſons only, as he or they ſhall think fitting, and not to be bound to take any Interpreter or Broker, nor to pay them any Salla<g ref="char:EOLhyphen"/>ry, except they pleaſe to imploy them. And in caſe of any Miſtake made, either by the Merchant or Maſter of any Ship, in any Entry or Declaration of his Loading in any part of the Goods in his Ship, no Advantage ſhall be taken againſt the Ship, or other Merchandizes there<g ref="char:EOLhyphen"/>in, but only againſt thoſe Goods ſo omitted.</p>
+            <p n="15">XV. That all <hi>Engliſh,</hi> as well Gentlemen as Merchants reſiding in <hi>France,</hi> may have liberty, in caſe of Death, to diſpoſe of their Eſtates by Will or otherwiſe, and that their Executors and Adminiſtrators may receive the Eſtate and Effects of the deceaſed Party, whether they died Teſtate or Inteſtate, notwithſtanding the <hi>Droit n' Aubeine,</hi> or any other Law, Uſage, or Cuſtom to the contrary.</p>
+            <p n="16">XVI. That in caſe of War, ſix Months Liberty be reſerved to the <hi>Engliſh</hi> to withdraw their Eſtates, as in the 26th Article of the Treaty in 1655.</p>
+            <p n="17">XVII. That if it be thought convenient for the better preſerving the Trade and Rights of the Subjects on each ſide, there may be annually choſen in the chief Ports and Cities of either Kingdom, or in ſo many as ſhall be thought fit, two of the ableſt <hi>Engliſh</hi> Merchants, and two <hi>French</hi> Merchants, who may be impowered not only publickly to appear on behalf of either Nation, for the ſecuring to each Party, the Benefit and Privileges granted by this Treaty, but alſo to determine and adjuſt ſuch Complaints and Difficulties as may ariſe thereupon, as was pro<g ref="char:EOLhyphen"/>pounded in part of the 7th, 8th, 9th, 10th, 11th, and part of the 12th Articles of the Treaty in <hi>Anno</hi> 1606.</p>
+            <p n="18">
+               <pb n="4" facs="tcp:63907:3"/>XVIII. That this Treaty may be regiſtred, proclaimed and publiſhed in all the Courts, Parliaments, and Judicatures of the Territories of <hi>France,</hi> where it may, as occaſion ſhall require, be effectually pleaded.</p>
+         </div>
+         <div type="treatise">
+            <head>To the Right Honourable the LORDS COMMISSIONERS appointed for the Treaty of Commerce with <hi>France.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhips,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>AVING, in Obedience to your Lordſhips Commands, preſented your Lordſhips with our humble Deſires, in reference to the ſettling a Treaty of Commerce with <hi>France;</hi> we humbly crave Leave, in all Humility, to re<g ref="char:EOLhyphen"/>preſent to your Lordſhips ſome Explanations of the ſame, with the Reaſons enforcing them, and Anſwers to ſuch Objections as may be made thereunto, by the Miniſters of <hi>France.</hi>
+            </p>
+            <p>We taking it for granted, (as we have formerly been given to un<g ref="char:EOLhyphen"/>derſtand) that a mutual Reciprocation and Equality was intended to both Nations, have accordingly calculated and framed our Propoſals: And doubt not but if the <hi>Engliſh</hi> be ſet on equal Terms, they will be able to carry on and continue the Trade to the Honour and Benefit of his Majeſty and the Kingdom; whereas, otherwiſe, nothing can be expect<g ref="char:EOLhyphen"/>ed but the Loſs and Ruin to the Trade of the <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>Propoſal</hi> I. The firſt Propoſal for confirming of former Treaties is what is uſual, and hath in moſt Treaties been incerted.</p>
+            <p>
+               <hi>Propoſal</hi> II. The ſecond Propoſal for Freedom of Trade comprehends,</p>
+            <list>
+               <item>1. A Liberty to inhabit as Houſe-keepers, or Warehouſe-keepers, in any of the Cities of <hi>France,</hi> with the ſame Liberty, Freedom, and Privilege, as the Subjects of <hi>France</hi> do in <hi>England.</hi>
+               </item>
+               <item>2. A Liberty to import any Merchandize into <hi>France,</hi> as fully and freely as the Subjects of <hi>France</hi> may.</item>
+               <item>3. A Liberty in expreſs Terms of importing into <hi>France,</hi> and vend<g ref="char:EOLhyphen"/>ing there, all Woollen and Silk Manufactures, of what Nature or kind ſoever they be, as to the Make, Size, Length, or other Circum<g ref="char:EOLhyphen"/>ſtances whatſoever, without any Hindrance, Obſtruction, or Moleſta<g ref="char:EOLhyphen"/>tion, on Pretence of any Viſitation or Examination touching the ſame.</item>
+               <item>4. A Liberty for the <hi>Engliſh</hi> reſiding in <hi>France,</hi> to ſell either for their own Accounts, or by Commiſſion, as Factors for others.</item>
+            </list>
+            <p>All which we humbly conceive of abſolute Neceſſity.</p>
+            <p n="1">1. As to the Firſt, A Liberty to inhabit and reſide as Houſe-keepers, or Warehouſe-keepers. It is eſſential to the Freedom of Trade; and no more is deſired for the <hi>Engliſh</hi> in <hi>France</hi> than the <hi>French</hi> enjoy in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which therefore we humbly conceive moſt juſt and reaſonable, and not to be denied; yet the <hi>Engliſh</hi> have been and are denied this
+<pb n="5" facs="tcp:63907:3"/>Liberty in <hi>Paris,</hi> where there are but 36 Foreigners of all Nations permit<g ref="char:EOLhyphen"/>ted, amongſt which, at preſent, but one <hi>Engliſh</hi> Merchant, (that we know of) who was not there admitted as <hi>Engliſh,</hi> on Terms of Recipro<g ref="char:EOLhyphen"/>cation and Freedom of Commerce, but was forced to be naturalized, and hath purchaſed his Privilege there, at great Charge, on ſtrict Conditions, ſo that now he may rather be ſaid to be a Subject of <hi>France</hi> than of his Majeſty of <hi>England.</hi>
+            </p>
+            <p>To that which may be Objected by the <hi>French</hi> Miniſters, That it is a Privilege granted to the Citizens of <hi>Paris,</hi> and that the particular Rights and Privileges of Cities are to be preſerved and maintained.</p>
+            <p>We pray your Lordſhips to conſider, That tho' it may be true, that the particular Rites of Cities ought in National Treaties to be reſerved; yet it muſt be underſtood (as we humbly conceive) of ſuch Rites as conſiſt with a mutual Commerce, elſe it is impoſſible that there ſhould be a Reciprocation and Equality. Can any Kingdom or City rationally expect a free Trade in another Kingdom or City that is of equal Dignity and Power with, and not in Vaſſalage and Subjection to them, when they will not admit it in their own. By the ſame Reaſon the <hi>Engliſh</hi> are excluded Commerce in <hi>Paris,</hi> the <hi>French</hi> may be excluded in <hi>London;</hi> and whether it be not diſhonourable for his Majeſty to grant the <hi>French</hi> ſuch a Freedom here, while his Subjects are excluded there, we humbly leave to your Lordſhips Conſideration.</p>
+            <p n="2">2. As to the ſecond, A Liberty to import and bring in any Merchan<g ref="char:EOLhyphen"/>dize, <hi>&amp;c.</hi> We do limit and reſtrain the ſame by this Clauſe, as fully and freely as the Subjects of <hi>France</hi> may, that ſo the Liberty to the <hi>French</hi> of importing into <hi>England</hi> may be equally reſtrain'd by a like Clauſe, as fully and freely as the <hi>Engliſh</hi> may, intending thereby to preſerve the Act of Navigation, whereby the <hi>Engliſh</hi> are debarr'd from importing Goods from ſome Places, unleſs in <hi>Engliſh</hi> built Shipping; and from others in <hi>Engliſh</hi> Ships, or Ships of ſuch Country whereof the Goods are the Pro<g ref="char:EOLhyphen"/>duct or Manufacture; otherwiſe, if the Words were left in general, to import any Merchandize, the <hi>French</hi> might thereby claim a Liberty of importing Goods into <hi>England,</hi> contrary to that Act, and thereby the ſaid Act, ſo beneficial to this Kingdom, would be render'd of little Uſe or Benefit, and the <hi>French</hi> would be made more free, and have greater Privilege in <hi>England</hi> than his Majeſty's own Subjects.</p>
+            <p n="3">3. As to the third, A particular Specification of Liberty for the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> to import and vend all ſorts of Woollen and Silk Manufactures, without Viſitation, <hi>&amp;c.</hi> We humbly conceive that the Vent of our Ma<g ref="char:EOLhyphen"/>nufactures in <hi>France</hi> (being the chief (if not the only) thing, by which the <hi>Engliſh</hi> Nation can reap any conſiderable Benefit from the Trade of <hi>France</hi>) ought ſpecially and particularly to be provided for, that they may be freely admitted, without Reſtriction or Viſitation, on Pretence whereof, in Virtue of ſome old Laws in <hi>France,</hi> for Regulation of Dra<g ref="char:EOLhyphen"/>pery, the Officers in <hi>France</hi> have oftentimes cauſed the <hi>Engliſh</hi> Drapery to be thrown into the Water, whereby they have been render'd unfit for Sale; and the like Practice, if not well provided againſt, may at any time be made Uſe of, and would be as effectual to deſtroy our Trade as a Prohibition.</p>
+            <p>That which we apprehend may be objected by the <hi>French</hi> Miniſters is,</p>
+            <p n="1">1. That the Laws for Viſitation of Cloth in <hi>France</hi> are antient Laws, were taken Notice of and allow'd in the Treaty of 1606. with ſome Proviſion touching the ſame, as the making the Conſervators of Trade,
+<pb n="6" facs="tcp:63907:4"/>Judges of what was faulty, and what not; and giving Liberty to car<g ref="char:EOLhyphen"/>ry the faulty back, without Confiſcation; and that the like Proviſion may be made in this preſent Treaty.</p>
+            <p n="2">2. That this is no more than the King of <hi>France</hi> his own Subjects, that are Makers of Drapery, are ſubjected to, and therefore ought not to be excepted againſt by the <hi>Engliſh.</hi>
+            </p>
+            <p>For Anſwer to which, granting it to be true in Fact, as is alledged, we ſay,</p>
+            <list>
+               <item>1. That antient Laws for the Regulation of the making of Drapery are not now of Uſe in reference to the Ends deſign'd at their firſt Con<g ref="char:EOLhyphen"/>ſtitution; for that the Manufactures are changed and altered according to the Modes and Fancies of the Times.</item>
+               <item>2. It is apparent by the Treaty of 1606. that the putting thoſe Laws in Execution againſt the <hi>Engliſh,</hi> was a Grievance then com<g ref="char:EOLhyphen"/>plain'd of, and the Proviſion then made hath not been ſufficient; but the <hi>Engliſh</hi> have ſince that Time, exceedingly ſuffer'd in their Trade, which is the Reaſon we deſire that by this Treaty a full and perfect Exemption of the <hi>Engliſh</hi> Drapery from thoſe Laws may be ſettled.</item>
+               <item>3. That Laws in this kind are properly made in every reſpective Country, for the promoting their own Manufactures, and not to oblige the Makers in other Countries. The King of <hi>France</hi> may make what Laws he pleaſeth for Regulation of his own Manufactures, whereby to render them in Eſteem and Repute; but we humbly conceive ought not to impoſe the ſame on the <hi>Engliſh,</hi> but that they may make ſuch Manufactures, and in ſuch manner, as they judge fit. The Buyers are to look what they buy. If the <hi>Engliſh</hi> do not make ſo good and ſerviceable Commodities, they will loſe the Vent, and the <hi>French</hi> will have the Advantage thereby. And we pray your Lordſhips to conſi<g ref="char:EOLhyphen"/>der that theſe Laws are not ſo much (if at all) made Uſe of for Re<g ref="char:EOLhyphen"/>gulation of <hi>French</hi> Manufactures in their Goodneſs and Repute, as they are for the Ruin and Deſtruction of the <hi>Engliſh</hi> Trade in Drapery.</item>
+            </list>
+            <p n="4">4. As to the Fourth; A Liberty for the <hi>Engliſh</hi> reſiding in <hi>France</hi> to buy and ſell either for their own Accounts, or by Commiſſion as Factors, for others. This we deſire; becauſe at <hi>Bourdeaux,</hi> and other Places, the <hi>Engliſh</hi> have been at ſome Times expreſly prohibited (and are not at any Time permitted <hi>de jure,</hi> but by Connivance) to ſell any Goods for o<g ref="char:EOLhyphen"/>thers by way of Commiſſion, and great Penalties are enjoin'd upon the ſame.</p>
+            <p>We pray your Lordſhips to conſider how impoſſible it is, that the <hi>Engliſh</hi> ſhould breed up any Young-Men in <hi>France,</hi> as Merchants, when they are not permitted there as Factors: Young-Men, not having Stocks to give them Employ, and anſwer Expences, cannot; and Men of Years, Eſtates, and Families, will not leave their own Country to reſide in <hi>France;</hi> ſo that if this be not provided for, there will no <hi>Engliſh</hi> reſide in <hi>France</hi> to Trade; whenas <hi>England</hi> ſhall be filled with <hi>French</hi> Factors, to learn here the Trade of Merchants, who having raiſed Eſtates here, return to their own Country with their Wealth, and ſend other Young-Men to ſettle in their Rooms. Beſides, the <hi>Engliſh</hi> muſt either have ve<g ref="char:EOLhyphen"/>ry little Trade to <hi>France,</hi> or elſe muſt hazard their Eſtates, by putting them into the Hands of the <hi>French,</hi> which may be attended with many Inconveniencies.</p>
+            <pb n="7" facs="tcp:63907:4"/>
+            <p>
+               <hi>Propoſal</hi> III. The Third Propoſal touching Cuſtoms, contains three Particulars.</p>
+            <list>
+               <item>1. The Reduction of the Cuſtoms in <hi>France</hi> on <hi>Engliſh</hi> Manufa<g ref="char:EOLhyphen"/>ctures of Wooll and Silk to an Equality.</item>
+               <item>2. An Aſſurance that they ſhall not be charged hereafter with new Impoſitions or Exciſe, nor any Defence made of their Conſumption.</item>
+               <item>3. The Rendring the <hi>Engliſh</hi> free from Strangers Cuſtoms in <hi>France.</hi> 1. As to the firſt, the Reduction of Cuſtoms.</item>
+            </list>
+            <p>We pray your Lordſhips to conſider the Neceſſity of Eſtabliſhing the Cuſtoms on an equal Foot; otherwiſe, it is impoſſible for the <hi>Engliſh</hi> to have any conſiderable Vent of their Manufactures in <hi>France.</hi>
+            </p>
+            <p>The Conſequence whereof, as your Lordſhips will perceive by the Scheme herewith preſented, will be (by the continuing the <hi>French</hi> Trade) a daily waſting of the Stock of this Nation, in that our Imports will ſo vaſtly exceed our Exports.</p>
+            <figure/>
+            <figure/>
+            <figure/>
+            <figure/>
+            <figure/>
+            <figure/>
+            <figure/>
+            <figure/>
+            <p>
+               <hi>Object.</hi> 1. That his Majeſty hath laid great Impoſitions on <hi>French</hi> Wines and Brandy, which (as they may ſuppoſe or pretend) may be prejudi<g ref="char:EOLhyphen"/>cial to the Subjects of <hi>France,</hi> both in Quantity and Price. To which we anſwer,</p>
+            <p>
+               <hi>Anſw.</hi> 1. That in Fact it is far otherwiſe; for that ſince his Majeſty's impoſing thoſe Duties, the Quantities of Wine and Brandy imported into <hi>England</hi> from <hi>France,</hi> have been far greater, and purchaſed at much high<g ref="char:EOLhyphen"/>er Prices than before. From <hi>Mich.</hi> 1663 to <hi>Mich.</hi> 1664. there was im<g ref="char:EOLhyphen"/>ported into the Port of <hi>London,</hi> 6828 Tuns of <hi>French</hi> Wine, and the Quantity of Brandy was then ſo ſmall that it deſerves not to be noted.</p>
+            <p>From <hi>Mich.</hi> 1667 to <hi>Mich.</hi> 1669, being after the raiſing the Duties on thoſe Commodities, there was imported into the Port of <hi>London,</hi> in the ſaid two Years, about—17000 Tuns of Wine.</p>
+            <p>And of Brandy about— 3000 Tuns.</p>
+            <p>From <hi>Mich.</hi> 1672 to <hi>Mich.</hi> 1674. being two Years, was imported into the Port of <hi>London</hi> upwards of—22500 Tuns of Wine.</p>
+            <p>From <hi>Mich.</hi> 1671 to <hi>Mich.</hi> 1673, was imported to <hi>London</hi> above 7315 Tuns of Brandy, and every Tun of Brandy conſumes about 5 Tuns of Wine, which makes the Quantity of 25000 Tuns of Wine.</p>
+            <figure/>
+            <figure/>
+            <p>And all ſorts of Claret are riſen double in Price ſince the Year 1667. So that it is evident, That the Impoſitions on Wines and Brandy in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> are only on his Majeſty's Subjects, on the Conſumption, and do no ways impair the Trade of thoſe Commodities, either in Quantity or Price, to the People of <hi>France.</hi>
+            </p>
+            <p n="2">2. We anſwer, That Impoſitions in <hi>England</hi> on Wine and Brandy, cannot properly be objected againſt the Reduction of the Impoſitions on <hi>Engliſh</hi> Manufactures in <hi>France,</hi> for that the <hi>French</hi> Manufactures im<g ref="char:EOLhyphen"/>ported into <hi>England</hi> do not only anſwer, but exceedingly much ſurmount in Value the <hi>Engliſh</hi> Manufactures imported into <hi>France;</hi> ſo that the Wine and Brandy ſtands upon a diſtinct Foot, and the <hi>French</hi> have wholly the Advantage thereof above the <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 2. If it ſhould be objected, that the Reduction of the Impo<g ref="char:EOLhyphen"/>ſitions on the <hi>Engliſh</hi> Manufactures in <hi>France</hi> would ruin the <hi>French</hi> Ma<g ref="char:EOLhyphen"/>nufactures,</p>
+            <p>
+               <hi>Anſw.</hi> We ſhall only crave leave with all Submiſſion to ſay, That without a Reduction, not only the Manufactures of <hi>England</hi> will decline, but the Stock of the Nation will be conſumed and exhauſted by the Continuance of ſuch a deſtructive and unequal Trade.</p>
+            <p>
+               <hi>Object.</hi> 3. If it ſhould be propoſed to reduce the Impoſitions in <hi>France</hi> on <hi>Engliſh</hi> Manufactures, to what they were at ſome prefixt Time, as to <hi>Anno</hi> 1664, or to <hi>Anno</hi> 1654, or ſome other time ſince 1606.</p>
+            <p>
+               <hi>Anſw.</hi> 1. We pray your Lordſhips to conſider, That unleſs they be reduced to an Equality, it would be contrary (as we humbly conceive) to what was laid down as the Foundation of the preſent Treaty, <hi>viz.</hi> a mutual Reciprocation and Parity.</p>
+            <p>The Duty on an <hi>Engliſh</hi> Broad Cloth imported into <hi>France</hi> was in <hi>Anno</hi> 1632, 6 Livers; in <hi>Anno</hi> 1644, it was raiſed to 9 Livers; in <hi>Anno</hi> 1654, to 30 Livers; in <hi>Anno</hi> 1664, to 40 Livers, and in <hi>Anno</hi> 1667, to 80 Livers.</p>
+            <p>A Piece of Serge in <hi>Anno</hi> 1632. paid one Liver; in <hi>Anno</hi> 1644. in <hi>Anno</hi> 1654, 5 Livers; in <hi>Anno</hi> 1664, 6 Livers; and in <hi>Anno</hi> 1667, 12 Livers.</p>
+            <p n="2">2. Though it may be poſſible, That a Reduction to 1664. may ſomewhat augment that ſmall Conſumption that now is, and ſo a Re<g ref="char:EOLhyphen"/>duction to his Majeſty's happy Reſtoration, or to <hi>Anno</hi> 1654. ſome<g ref="char:EOLhyphen"/>what more; yet neither the one nor the other would ſo far enlarge the Trade, as to bear any Proportion between the <hi>Engliſh</hi> and <hi>French</hi> Ma<g ref="char:EOLhyphen"/>nufactures, and prevent the Decay of the Stock of the <hi>Engliſh</hi> Nation by that Trade.</p>
+            <p n="2">2. As to the ſecond, An Aſſurance, that the <hi>Engliſh</hi> Manufactures ſhall not be charged hereafter with new Impoſitions or Exciſe, nor any Defence made of their Conſumption.</p>
+            <p>We humbly conceive this neceſſary, becauſe the <hi>French</hi> have from time to time raiſed the Duties, as appears by the Inſtances before given, tho' by the <hi>3d</hi> Article of the Treaty of 1606, the Cuſtoms were to re<g ref="char:EOLhyphen"/>main as then they ſtood, and alſo becauſe by an Arreſt of the <hi>French</hi> King, a private Agreement of the Stocking-weavers and Stocking-ſellers in <hi>Paris,</hi> that the one ſhould not ſell, nor the other buy of any other
+<pb n="9" facs="tcp:63907:5"/>Perſons, but only to and of each other, was eſtabliſhed, whereby that Trade of the <hi>Engliſh</hi> in Silk Stockings was totally ruined; and the like may be practiſed in reference to other Manufactures, and would have the ſame Effect, ſuch Agreements ſo confirmed and authorized being of equal Force with a Prohibition of the Manufacture.</p>
+            <p n="3">3. As to the third Particular, the rendering the <hi>Engliſh</hi> free from Strangers Cuſtoms in <hi>France,</hi>
+            </p>
+            <figure/>
+            <p>To what may be objected in reference to this, is,</p>
+            <p>
+               <hi>Object.</hi> 1. That theſe are Privileges granted to the Burghers and Free<g ref="char:EOLhyphen"/>men of particular Cities. We anſwer,</p>
+            <p>
+               <hi>Anſw.</hi> That were it only City or Town Duties, as it is in <hi>England</hi> in many Corporations, of Scuvage, Parkage, <hi>&amp;c.</hi> being very ſmall and inconſiderable, it were reciprocal; but when it is a Duty of Cuſtoms due to the King, of that Importance, it is of the ſame nature as the Stran<g ref="char:EOLhyphen"/>gers Cuſtom in <hi>England,</hi> which as the <hi>French</hi> receive an Exemption from in all Cities and Towns of <hi>England,</hi> ſo ought they to grant to the <hi>Engliſh</hi> the like Exemption from, in all Cities and Towns of <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 2. If it ſhould be propoſed, That the <hi>Engliſh</hi> ſhould have the like Privilege as <hi>French</hi>-men, not Free Burgers of ſuch Cities and Towns; we reply,</p>
+            <p>
+               <hi>Anſw.</hi> That the <hi>French</hi> in <hi>England</hi> pay no other Duties to his Majeſty (if the Strangers Cuſtoms be remitted) than the free Burghers of any Cities or Towns in <hi>England;</hi> and that if this be not provided againſt, the <hi>Engliſh</hi> may at pleaſure (on like Pretence) be excluded from all Trade in <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 3. If it be alledged, That the remitting of theſe Duties to the <hi>Engliſh</hi> will cauſe a general Complaint from the Free Burghers of ſuch Cities and Towns in <hi>France,</hi> it may be anſwered,</p>
+            <p>
+               <hi>Anſw.</hi> That his Majeſty's Subjects may as juſtly complain, if the Strangers Duties be remitted to the Subjects of <hi>France.</hi>
+            </p>
+            <figure/>
+            <p>We humbly conceive, to render things equal on both ſides, his Ma<g ref="char:EOLhyphen"/>jeſty not taking the ſaid Duty of <hi>French</hi> Ships but once in one Voyage, tho' the Veſſel load and unload at divers Ports; the <hi>French</hi> King ſhould grant the like in <hi>France</hi> in reference to the <hi>Engliſh</hi> Ships, which hitherto hath not been done, to the great Prejudice and Diſcouragement of the <hi>Engliſh</hi> Navigation.</p>
+            <p>
+               <hi>Propoſal</hi> VIII. The 8th Propoſal to prevent Confiſcation of Ship and Goods, or Payment of Cuſtom, in caſe of an <hi>Engliſh</hi> Ships being forced into a <hi>French</hi> Port, and the Maſter not giving ſpeedy No<g ref="char:EOLhyphen"/>tice to the Governour of the ſaid Port;</p>
+            <p>This we humbly propoſe becauſe an <hi>Engliſh</hi> Ship which put into <hi>Havre de Grace</hi> Read for Re<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>f in a Storm, was ſeized on, upon pre<g ref="char:EOLhyphen"/>tence that the Maſter ought to have given an Account to the Gover<g ref="char:EOLhyphen"/>nour in three <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he having omitted, it was pretended a
+<pb n="10" facs="tcp:63907:6" rendition="simple:additions"/>ſufficient ground to confiſcate Ship and Goods; and had not the Maſter with a good Sum of Money procured a Releaſe, both Ship and Goods had been loſt. Alſo when any laden <hi>Engliſh</hi> Ship comes into any Port of <hi>France</hi> by Streſs of Weather or otherwiſe, the <hi>French</hi> have ſometimes forced them to pay the Cuſtoms, and at other times to give Security for the Cuſtoms, even when the Ships have been bound to other of their own Ports.</p>
+            <p>
+               <hi>Propoſal</hi> IX. The 9th Propoſal, That <hi>Engliſh</hi>-men might have the Free<g ref="char:EOLhyphen"/>dom of their own Ships, and not be forced to lade any Man's Goods without their own Conſents, and may not be hinder'd from lading their Ships, to give a Preference to the <hi>French</hi> Ships.</p>
+            <p>This we humbly conceive neceſſary, becauſe that in <hi>Morlaix</hi> and other Places of <hi>France,</hi> ſeveral <hi>Engliſh</hi> Veſſels conſigned to Merchants have been forced, notwithſtanding Propriety and Charter-party, to take in <hi>French</hi>-mens Goods equally, and ſometimes preferably to their own, and at other times have not been ſuffered to load their Veſſels, till <hi>French</hi> Veſſels then in lading have been firſt loaden, to the great Diſadvantage and Diſcouragement of the <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>Propoſal</hi> XII. The 12th Propoſal to prevent extraordinary Taxes on the <hi>Engliſh</hi> reſiding in <hi>France,</hi> and the forcing one Man to pay for another,</p>
+            <p>Is humbly conceived neceſſary, becauſe that formerly in many Places of <hi>France</hi> extraordinary Perſonal Taxes have been charged on the <hi>Engliſh,</hi> and one Man's Goods ſeized to pay all the Taxes of the <hi>Engliſh</hi> in the ſaid Place.</p>
+            <p>
+               <hi>Propoſal</hi> XIII. The 13th Propoſal, That one <hi>Engliſh</hi> man may be a Witneſs for another in all Caſes where he is unconcerned.</p>
+            <p>This is deſired to be provided for in the Treaty, becauſe it hath for<g ref="char:EOLhyphen"/>merly been denied in <hi>France,</hi> to the great Damage of the <hi>Engliſh;</hi> where<g ref="char:EOLhyphen"/>as in <hi>England</hi> it is conſtantly allowed in all Courts of Juſtice.</p>
+            <p>
+               <hi>Propoſal</hi> XVIII. The 18th Propoſal, That this Treaty of Commerce may be regiſtred in all the Courts of Parliament and. Judicatures of <hi>France,</hi>
+            </p>
+            <p>We humbly conceive of moſt abſolute neceſſity, for otherwiſe it will not be pleadable in any of their Courts of Juſtice. And for the <hi>Engliſh</hi> upon every Diſpute that may ariſe, to be neceſſitated to attend the <hi>French</hi> King and his Council at <hi>Paris,</hi> which is ſome hundred of Miles from many Places of Trade; the Charge of ſuch Journeys, and Loſs of Time, would be as ruinous as the Matter in diſpute. And we pray your Lord<g ref="char:EOLhyphen"/>ſhips to conſider, if it be not ſo ſettled, That the <hi>Engliſh</hi> may have Juſtice in the ordinary Courſe in all Places, how eaſy it will be for the <hi>French</hi> King or his Miniſters to render ineffectual and of no Benefit to the <hi>Engliſh,</hi> all the Articles of this or any other Treaty.</p>
+            <p>The 5th, 6th, 7th, 10th, 11th, 14th, 15th, 16th, and 17th Propoſal<g ref="char:punc">▪</g> we ſuppoſe need no further Explanations or Reaſons to enforce <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> being the ſame that have been granted in former Treaties.</p>
+            <closer>
+               <hi>All which is humbly ſubmitted,</hi> &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
